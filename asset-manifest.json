@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Echart-Project/static/css/main.3c2b7645.css",
+    "main.js": "/React-Echart-Project/static/js/main.c114d310.js",
+    "index.html": "/React-Echart-Project/index.html",
+    "main.3c2b7645.css.map": "/React-Echart-Project/static/css/main.3c2b7645.css.map",
+    "main.c114d310.js.map": "/React-Echart-Project/static/js/main.c114d310.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c2b7645.css",
+    "static/js/main.c114d310.js"
+  ]
+}
